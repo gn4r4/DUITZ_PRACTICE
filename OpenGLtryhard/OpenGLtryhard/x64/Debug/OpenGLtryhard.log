@@ -1,0 +1,16 @@
+﻿  main.cpp
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\graphics\models\cube.hpp(68,30): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'src/main.cpp')
+  
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp(124,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp(131,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp(132,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp(50,7): warning C4101: 'infoLog': unreferenced local variable
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp(49,6): warning C4101: 'success': unreferenced local variable
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp(219,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp(222,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp(225,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp(228,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp(231,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp(234,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLtryhard.vcxproj -> E:\proj\OpenGLtryhard\x64\Debug\OpenGLtryhard.exe

@@ -1,0 +1,14 @@
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\glad.c;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\glad.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\graphics\light\light.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\light.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\graphics\material.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\material.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\graphics\mesh.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\mesh.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\graphics\model.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\model.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\graphics\texture.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\texture.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\io\camera.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\camera.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\io\joystick.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\joystick.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\io\keyboard.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\keyboard.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\io\mouse.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\mouse.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\io\screen.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\screen.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\main.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\main.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\graphics\shader.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\shader.obj
+E:\proj\OpenGLtryhard\OpenGLtryhard\src\stb.cpp;E:\proj\OpenGLtryhard\OpenGLtryhard\x64\Debug\stb.obj
